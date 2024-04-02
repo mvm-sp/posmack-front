@@ -50,7 +50,7 @@ function App() {
                 <td>{tutorial.id}</td>
                 <td>{tutorial.title}</td>
                 <td>{tutorial.description}</td>
-                <td>{tutorial.publshed? "true" : "false"}</td>
+                <td>{tutorial.published? "true" : "false"}</td>
                 <td>{tutorial.updatedAt}</td>
                 <td>{tutorial.createdAt}</td>
               </tr>
